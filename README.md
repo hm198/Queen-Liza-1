@@ -11,4 +11,4 @@
 
 <div>
   
-<a href="https://bit.ly/abouthm"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
+<a href="https://bit.ly/abouthm"><img src="https://raw.githubusercontent.com/souravkl11/Raganork/master/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
