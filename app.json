@@ -8,7 +8,7 @@
     "success_url": "under maintenance",
     "stack": "container",
     "env": {
-        "PINKY_SESSION": {
+        "HM_SESSION": {
             "description": "Type here yours HMser-QR Session.",
             "required": true
         },
